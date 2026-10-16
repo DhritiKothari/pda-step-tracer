@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/PDA Tester & Step Tracer(1).html"
+    }
+  ]
+}
